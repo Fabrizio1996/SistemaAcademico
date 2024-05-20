@@ -1,0 +1,6 @@
+C:\Users\Fabrizio\Downloads\SistemaAcademico\CapaDato\bin\Release\CapaDato.dll
+C:\Users\Fabrizio\Downloads\SistemaAcademico\CapaDato\bin\Release\CapaDato.pdb
+C:\Users\Fabrizio\Downloads\SistemaAcademico\CapaDato\obj\Release\CapaDato.csproj.AssemblyReference.cache
+C:\Users\Fabrizio\Downloads\SistemaAcademico\CapaDato\obj\Release\CapaDato.csproj.CoreCompileInputs.cache
+C:\Users\Fabrizio\Downloads\SistemaAcademico\CapaDato\obj\Release\CapaDato.dll
+C:\Users\Fabrizio\Downloads\SistemaAcademico\CapaDato\obj\Release\CapaDato.pdb
